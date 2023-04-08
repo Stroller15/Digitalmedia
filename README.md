@@ -12,12 +12,12 @@ The digital media landing page is fully responsive, adapting to any screen size 
 ![image](https://user-images.githubusercontent.com/84174011/230704632-9c2e38f6-bdff-46d3-8aa7-38bd5d2960ac.png)
 
 
-## Medium size vew
+## Medium size view
 ![image](https://user-images.githubusercontent.com/84174011/230704701-ada207bd-ea1f-427d-822e-f52a1cbf36d3.png)
 
 
 
-## Mobile vew
+## Mobile view
 ![image](https://user-images.githubusercontent.com/84174011/230704663-11a401d6-8b1b-4d5a-b4cd-05684c230eca.png)
 
 ## How to use this?
